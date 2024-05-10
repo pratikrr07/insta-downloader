@@ -12,7 +12,7 @@ This extension should work fine on the following browsers with `fetch()` API and
 
 ## Install and usage
 
-* Download [latest version](https://github.com/pratikrr07/insta-downloader/releases) and extract to a folder
+* Download [latest version](https://github.com/HOAIAN2/Instagram-Downloader/releases) and extract to a folder
 * Enable Chrome extensions developer mode
 * Drag and drop extracted folder to `chrome://extensions/`
 
